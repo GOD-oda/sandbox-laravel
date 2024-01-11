@@ -1,4 +1,4 @@
-FROM php:8.1.16-fpm-bullseye AS base
+FROM php:8.2.14-fpm-bullseye AS base
 
 WORKDIR /src
 
